@@ -1,0 +1,16 @@
+.NOTES
+*.swp
+*.DS_Store
+._*
+*.gz
+*.bz2
+*.old
+*.BACKUP
+*.backup
+*.bak
+*.swp
+*TRASH*
+*JUNK*
+*nohup*
+/htdocs/wp-content/uploads/*
+/htdocs/temp/*
